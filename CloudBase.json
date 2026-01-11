@@ -1,0 +1,8 @@
+{
+  "apps": {
+    "cool.fonts.symbol.keyboard.custom.fancy.text.editor": {
+      "skus": ["fonts.android.sub.gr1.1y_20", "fonts.android.sub.gr1.1w_10"],
+      "force_unlock": true
+    }
+  }
+}
